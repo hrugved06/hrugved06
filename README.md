@@ -10,14 +10,6 @@
 
 <!-----Social Accounts------>
 
-<style>
-
-p.a { 
-  padding-right: 300px;
-}
-</style>
-<p class="a">
-
 <a href="https://www.linkedin.com/in/hrugved-kolhe-364881193/">
 <img border="0" alt="Hrugved Kolhe" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
 </a>
@@ -42,10 +34,7 @@ p.a {
 <img border="0" alt="Hrugved Kolhe" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
 </a>
 
-</p>
-
 <hr style="height:2px;border-width:1;border-radius: 5px;color:#8080ff;background-color:#8080ff">
-</br>
 
 <!-----Contribution figures------>
 
@@ -53,14 +42,12 @@ p.a {
 
 </br>
 <hr style="height:2px;border-width:1;border-radius: 5px;color:gray;background-color:#8080ff">
-</br>
 <!----------Programming languages used----------->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HrugVed&theme=dark&title_color=00ace6&text_color=ffffff" />
 
-</br>
 <hr style="height:2px;#8080ffborder-width:0;border-radius: 5px;color:gray;background-color:#8080ff">
-</br>
+
 
 <!-------------Projects---------------->
 

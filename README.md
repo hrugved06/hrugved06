@@ -1,7 +1,7 @@
 ## ** Hey Everyone👋🏻 This is Hrugved😃 ** 
-</br>
+
 <hr style="height:2px;border-width:1;border-radius: 5px;color:gray;background-color:#8080ff">
-<br/>
+
 - 👋🏻 Hiya, I’m <a href="https://www.linkedin.com/in/hrugved-kolhe-364881193/">HrugVed</a> ✌🏻 <br/> 
 - 👀 I’m interested in Machine Learning, DSA, Open Source and Many more 😄<br/>
 - 🌱 I’m currently learning Open Source <br/>

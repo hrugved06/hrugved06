@@ -52,14 +52,12 @@ p.a {
 <img align="center" src = "https://github-readme-stats.vercel.app/api?username=HrugVed&&show_icons=true&title_color=02D752&icon_color=bb2acf&text_color=b3b3ff&bg_color=151515">
 
 </br>
-</br>
 <hr style="height:2px;border-width:1;border-radius: 5px;color:gray;background-color:#8080ff">
 </br>
 <!----------Programming languages used----------->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HrugVed&theme=dark&title_color=00ace6&text_color=ffffff" />
 
-</br>
 </br>
 <hr style="height:2px;#8080ffborder-width:0;border-radius: 5px;color:gray;background-color:#8080ff">
 </br>
@@ -70,12 +68,10 @@ p.a {
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hrugved06&repo=Face-X&theme=dark" />
 </a>
 </br>
-</br>
 
 <a href="https://github.com/hrugved06/ML-Projects">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hrugved06&repo=ML-Projects&theme=dark" />
 </a>
-</br>
 </br>
 <hr style="height:2px;#8080ffborder-width:0;border-radius: 5px;color:gray;background-color:#8080ff">
 </br>
@@ -103,17 +99,14 @@ p.a {
 </a>
 
 </br>
-</br>
 <hr style="height:2px;#8080ffborder-width:0;border-radius: 5px;color:gray;background-color:#8080ff">
 </br>
 
 <a href="https://github.com/hrugved06"><img src="https://avatars.githubusercontent.com/u/59966943?s=400&u=445f4a7598547c0ecdeb22a265dd1a3dad9e297d&v=4" width="100px;" alt=""/><br /><sub><b> Hrugved Kolhe</b></sub></a>
 </br>
-</br>
 
 [![GitHub followers](https://img.shields.io/github/followers/hrugved06.svg?label=Follow%20@hrugved06&style=social)](https://github.com/hrugved06)  [![Twitter Follow](https://img.shields.io/twitter/follow/HrugVed_?style=social)](https://twitter.com/HrugVed_)
 
-</br>
 </br>
 <hr style="height:2px;#8080ffborder-width:0;border-radius: 5px;color:gray;background-color:#8080ff">
 </br>

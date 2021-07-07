@@ -6,7 +6,7 @@
 - 👀 I’m interested in Machine Learning, DSA, Open Source and Many more 😄<br/>
 - 🌱 I’m currently learning Open Source <br/>
 - 💞️ I’m open for collaboration on every interesting stuff ✌🏻<br/>
-- 📫 You can contact me through 👇🏻  <br/></br>
+- 📫 You can contact me through 👇🏻  <br/>
 
 <!-----Social Accounts------>
 
@@ -67,6 +67,7 @@ p.a {
 <a href="https://github.com/hrugved06/Face-X">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hrugved06&repo=Face-X&theme=dark" />
 </a>
+
 </br>
 
 <a href="https://github.com/hrugved06/ML-Projects">

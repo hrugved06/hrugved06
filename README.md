@@ -74,7 +74,6 @@ p.a {
 </a>
 </br>
 <hr style="height:2px;#8080ffborder-width:0;border-radius: 5px;color:gray;background-color:#8080ff">
-</br>
 
 ## Programming Languages used in the Project:
 

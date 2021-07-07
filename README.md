@@ -4,9 +4,10 @@
 
 - 👋🏻 Hiya, I’m <a href="https://www.linkedin.com/in/hrugved-kolhe-364881193/">HrugVed</a> ✌🏻 <br/> 
 - 👀 I’m interested in Machine Learning, DSA, Open Source and Many more 😄<br/>
-- 🌱 I’m currently learning Open Source <br/>
-- 💞️ I’m open for collaboration on every interesting stuff ✌🏻<br/>
-- 📫 You can contact me through 👇🏻  <br/>
+- 🌱 I try to learn new technologies and try to keep myself busy 🤵🏻 <br/>
+- 👨🏻‍💻 Currently exploring Open Source domain 📱</br>
+- 💞️ I’m open for collaboration on every interesting project/stuff ✌🏻<br/>
+- 📫 You can contact me through these socials👇🏻  <br/>
 
 <!-----Social Accounts------>
 
@@ -40,7 +41,6 @@
 
 <img align="center" src = "https://github-readme-stats.vercel.app/api?username=HrugVed&&show_icons=true&title_color=02D752&icon_color=bb2acf&text_color=b3b3ff&bg_color=151515">
 
-</br>
 <hr style="height:2px;border-width:1;border-radius: 5px;color:gray;background-color:#8080ff">
 <!----------Programming languages used----------->
 

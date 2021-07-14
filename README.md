@@ -4,7 +4,7 @@
 
 - 👋🏻 Hiya, I’m <a href="https://www.linkedin.com/in/hrugved-kolhe-364881193/">HrugVed</a> ✌🏻 <br/> 
 - 👀 I’m interested in Machine Learning, DSA, Open Source and Many more 😄<br/>
-- 🌱 I try to learn new technologies and try to keep myself busy 🤵🏻 <br/>
+- 🌱 Trying to learn new technologies and try to keep myself busy 🤵🏻 <br/>
 - 👨🏻‍💻 Currently exploring Open Source domain 📱</br>
 - 💞️ I’m open for collaboration on every interesting project/stuff ✌🏻<br/>
 - 📫 You can contact me through these socials👇🏻  <br/>

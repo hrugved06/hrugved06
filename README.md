@@ -7,7 +7,7 @@
 - 🌱 Trying to learn new technologies and try to keep myself busy 🤵🏻 <br/>
 - 👨🏻‍💻 Currently exploring Open Source domain 📱</br>
 - 💞️ I’m open for collaboration on every interesting project/stuff ✌🏻<br/>
-- 📫 You can contact me through these socials👇🏻  <br/>
+- 📫 You can contact me through these socials IDs😁👇🏻  <br/>
 
 <!-----Social Accounts------>
 

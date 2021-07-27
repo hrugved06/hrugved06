@@ -68,6 +68,16 @@
 </br>
 <hr style="height:2px;#8080ffborder-width:0;border-radius: 5px;color:gray;background-color:#8080ff">
 
+<!--------------- Contribution Graph ---------------->
+
+
+ <img src="https://activity-graph.herokuapp.com/graph?username=hrugved06&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div>
+ 
+ </br>
+ 
+
+
+
 ## Programming Languages used in the Project:
 
 <a href="https://go.java/">

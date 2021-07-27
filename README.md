@@ -42,10 +42,16 @@
 <img align="center" src = "https://github-readme-stats.vercel.app/api?username=hrugved06&&show_icons=true&title_color=02D752&icon_color=bb2acf&text_color=b3b3ff&bg_color=151515">
 
 <hr style="height:2px;border-width:1;border-radius: 5px;color:gray;background-color:#8080ff">
+
+<!------------ Streak Display -------------->
+
+<div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hrugved06&theme=dark" alt="HrugVed" /></p>
+</div>
+
 <!----------Programming languages used----------->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrugved06&theme=radical" />
-
 
 
 <!-------------Projects---------------->

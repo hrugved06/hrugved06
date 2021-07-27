@@ -39,22 +39,35 @@
 
 <!-----Contribution figures------>
 
+## General Stats :
+
 <img align="center" src = "https://github-readme-stats.vercel.app/api?username=hrugved06&&show_icons=true&title_color=02D752&icon_color=bb2acf&text_color=b3b3ff&bg_color=151515">
 
 <hr style="height:2px;border-width:1;border-radius: 5px;color:gray;background-color:#8080ff">
 
 <!------------ Streak Display -------------->
 
+## Contribution Stats :
+
 <div>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hrugved06&theme=dark" alt="HrugVed" /></p>
 </div>
 
+<hr style="height:2px;border-width:1;border-radius: 5px;color:#8080ff;background-color:#8080ff">
+
+
 <!----------Programming languages used----------->
+
+## Languages Used :
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrugved06&theme=radical" />
 
+<hr style="height:2px;border-width:1;border-radius: 5px;color:#8080ff;background-color:#8080ff">
+
 
 <!-------------Projects---------------->
+
+## Repository Overview :
 
 <a href="https://github.com/hrugved06/Face-X">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hrugved06&repo=Face-X&theme=dark" />
@@ -70,13 +83,15 @@
 
 <!--------------- Contribution Graph ---------------->
 
+## Contribution Graph :
 
  <img src="https://activity-graph.herokuapp.com/graph?username=hrugved06&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div>
  
+ <hr style="height:2px;border-width:1;border-radius: 5px;color:#8080ff;background-color:#8080ff">
+ 
  </br>
  
-
-
+<!------------------- Languages used ----------------------->
 
 ## Programming Languages used in the Project:
 
@@ -104,11 +119,14 @@
 <hr style="height:2px;#8080ffborder-width:0;border-radius: 5px;color:gray;background-color:#8080ff">
 </br>
 
+## My Profile :
+<div align="center">
 <a href="https://github.com/hrugved06"><img src="https://avatars.githubusercontent.com/u/59966943?s=400&u=445f4a7598547c0ecdeb22a265dd1a3dad9e297d&v=4" width="100px;" alt=""/><br /><sub><b> Hrugved Kolhe</b></sub></a>
 </br>
 
-[![GitHub followers](https://img.shields.io/github/followers/hrugved06.svg?label=Follow%20@hrugved06&style=social)](https://github.com/hrugved06)  [![Twitter Follow](https://img.shields.io/twitter/follow/HrugVed_?style=social)](https://twitter.com/HrugVed_)
 
+[![GitHub followers](https://img.shields.io/github/followers/hrugved06.svg?label=Follow%20@hrugved06&style=social)](https://github.com/hrugved06)  [![Twitter Follow](https://img.shields.io/twitter/follow/HrugVed_?style=social)](https://twitter.com/HrugVed_)
+</div>
 </br>
 <hr style="height:2px;#8080ffborder-width:0;border-radius: 5px;color:gray;background-color:#8080ff">
 </br>

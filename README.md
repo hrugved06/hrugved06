@@ -70,14 +70,21 @@
 ## Repository Overview :
 
 <a href="https://github.com/hrugved06/Face-X">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hrugved06&repo=Face-X&theme=dark" />
+ <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=hrugved06&repo=Face-X&theme=dark" />
 </a>
 
-</br>
+<a href="https://github.com/hrugved06/Discbot_ai">
+ <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=hrugved06&repo=Discbot_ai&theme=dark" />
+</a>
+
+<a href="https://github.com/hrugved06/ML-DL-Projects">
+ <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=hrugved06&repo=ML-DL-Projects&theme=dark" />
+</a>
 
 <a href="https://github.com/hrugved06/ML-Projects">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hrugved06&repo=ML-Projects&theme=dark" />
+ <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=hrugved06&repo=ML-Projects&theme=dark" />
 </a>
+
 </br>
 <hr style="height:2px;#8080ffborder-width:0;border-radius: 5px;color:gray;background-color:#8080ff">
 
@@ -123,9 +130,11 @@
 <div align="center">
 <a href="https://github.com/hrugved06"><img src="https://avatars.githubusercontent.com/u/59966943?s=400&u=445f4a7598547c0ecdeb22a265dd1a3dad9e297d&v=4" width="100px;" alt=""/><br /><sub><b> Hrugved Kolhe</b></sub></a>
 </br>
+
 </br>
 
-[![GitHub followers](https://img.shields.io/github/followers/hrugved06.svg?label=Follow%20@hrugved06&style=social)](https://github.com/hrugved06)  [![Twitter Follow](https://img.shields.io/twitter/follow/HrugVed_?style=social)](https://twitter.com/HrugVed_)
+[![GitHub followers](https://img.shields.io/github/followers/hrugved06.svg?label=Follow%20@hrugved06&style=social)](https://github.com/hrugved06) 
+[![Twitter Follow](https://img.shields.io/twitter/follow/HrugVed_?style=social)](https://twitter.com/HrugVed_)
 </div>
 </br>
 <hr style="height:2px;#8080ffborder-width:0;border-radius: 5px;color:gray;background-color:#8080ff">

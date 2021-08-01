@@ -1,4 +1,4 @@
-## ** Hey Everyone👋🏻 This is Hrugved😃 ** 
+## ** Hey Everyone<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, This is Hrugved😃 ** 
 
 <hr style="height:2px;border-width:1;border-radius: 5px;color:gray;background-color:#8080ff">
 
@@ -11,6 +11,7 @@
 
 <!-----Social Accounts------>
 
+<p align="center">
 <a href="https://www.linkedin.com/in/hrugved-kolhe-364881193/">
 <img border="0" alt="Hrugved Kolhe" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
 </a>
@@ -34,14 +35,15 @@
 <a href="mailto:hskolhe666@gmail.com">
 <img border="0" alt="Hrugved Kolhe" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
 </a>
-
+</p>
+ 
 <hr style="height:2px;border-width:1;border-radius: 5px;color:#8080ff;background-color:#8080ff">
 
 <!-----Contribution figures------>
 
 ## General Stats :
 
-<img align="center" src = "https://github-readme-stats.vercel.app/api?username=hrugved06&&show_icons=true&title_color=02D752&icon_color=bb2acf&text_color=b3b3ff&bg_color=151515">
+<img align="center" src = "https://github-readme-stats.vercel.app/api?username=hrugved06&&show_icons=true&title_color=02D752&icon_color=bb2acf&text_color=b3b3ff&bg_color=0,000000,130F40">
 
 <hr style="height:2px;border-width:1;border-radius: 5px;color:gray;background-color:#8080ff">
 

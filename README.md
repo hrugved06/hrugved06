@@ -1,4 +1,4 @@
-## ** Hey Everyone<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, This is Hrugved😃 ** 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Hey Everyone<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, This is Hrugved😃 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 
 <hr style="height:2px;border-width:1;border-radius: 5px;color:gray;background-color:#8080ff">
 
@@ -41,7 +41,7 @@
 
 <!-----Contribution figures------>
 
-## General Stats :
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">General Stats :
 
 <img align="center" src = "https://github-readme-stats.vercel.app/api?username=hrugved06&&show_icons=true&title_color=02D752&icon_color=bb2acf&text_color=b3b3ff&bg_color=0,000000,130F40">
 
@@ -49,7 +49,7 @@
 
 <!------------ Streak Display -------------->
 
-## Contribution Stats :
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Contribution Stats :
 
 <div>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hrugved06&theme=dark" alt="HrugVed" /></p>
@@ -60,7 +60,7 @@
 
 <!----------Programming languages used----------->
 
-## Languages Used :
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Languages Used :
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrugved06&theme=radical" />
 
@@ -69,7 +69,7 @@
 
 <!-------------Projects---------------->
 
-## Repository Overview :
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Repository Overview :
 
 <a href="https://github.com/hrugved06/Face-X">
  <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=hrugved06&repo=Face-X&theme=dark" />
@@ -92,7 +92,7 @@
 
 <!--------------- Contribution Graph ---------------->
 
-## Contribution Graph :
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Contribution Graph :
 
  <img src="https://activity-graph.herokuapp.com/graph?username=hrugved06&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div>
  
@@ -102,7 +102,7 @@
  
 <!------------------- Languages used ----------------------->
 
-## Programming Languages used in the Project:
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Programming Languages used in the Project:
 
 <a href="https://go.java/">
 <img border="0" alt="Java" src="https://img.icons8.com/color/55/000000/java-coffee-cup-logo--v1.png"/>
@@ -128,7 +128,7 @@
 <hr style="height:2px;#8080ffborder-width:0;border-radius: 5px;color:gray;background-color:#8080ff">
 </br>
 
-## My Profile :
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">My Profile :
 <div align="center">
 <a href="https://github.com/hrugved06"><img src="https://avatars.githubusercontent.com/u/59966943?s=400&u=445f4a7598547c0ecdeb22a265dd1a3dad9e297d&v=4" width="100px;" alt=""/><br /><sub><b> Hrugved Kolhe</b></sub></a>
 </br>

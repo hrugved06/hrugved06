@@ -36,6 +36,10 @@
 <img border="0" alt="Hrugved Kolhe" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
 </a>
 </p>
+
+<!--  <a href="https://tawk.to/chat/61001d75d6e7610a49ad3be2/1fbk764uk">
+<img border="0" alt="yawk.to" src="https://img.icons8.com/fluent/42/000000/discord-logo.png"/>
+</a> -->
  
 <hr style="height:2px;border-width:1;border-radius: 5px;color:#8080ff;background-color:#8080ff">
 

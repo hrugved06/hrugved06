@@ -7,7 +7,7 @@
 - 🌱 Trying to learn new technologies and try to keep myself busy 🤵🏻 <br/>
 - 👨🏻‍💻 Currently exploring Open Source domain 📱</br>
 - 💞️ I’m open for collaboration on every interesting project/stuff ✌🏻<br/>
-- 📫 You can contact me through these socials IDs😁👇🏻  <br/>
+- 📫 You can contact me through these socials IDs 😁👇🏻  <br/>
 
 <!-----Social Accounts------>
 
@@ -94,7 +94,7 @@
 </br>
 <hr style="height:2px;#8080ffborder-width:0;border-radius: 5px;color:gray;background-color:#8080ff">
 
-<!--------------- Contribution Graph ---------------->
+<!--------------- Hrugved's Contribution Graph ---------------->
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Contribution Graph :
 
@@ -104,7 +104,7 @@
  
  </br>
  
-<!------------------- Languages used ----------------------->
+<!------------------- Languages used by me ----------------------->
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Programming Languages used in the Project:
 

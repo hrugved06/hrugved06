@@ -62,15 +62,6 @@
 <hr style="height:2px;border-width:1;border-radius: 5px;color:#8080ff;background-color:#8080ff">
 
 
-<!----------Programming languages used----------->
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Languages Used :
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrugved06&theme=radical" />
-
-<hr style="height:2px;border-width:1;border-radius: 5px;color:#8080ff;background-color:#8080ff">
-
-
 <!-------------Projects---------------->
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Repository Overview :

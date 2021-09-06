@@ -2,16 +2,20 @@
 
 <hr style="height:2px;border-width:1;border-radius: 5px;color:gray;background-color:#8080ff">
 
-- 👋🏻 Hiya, I’m <a href="https://www.linkedin.com/in/hrugved-kolhe-364881193/">HrugVed</a> ✌🏻 <br/> 
+- 👋🏻 Hiya, I’m <a href="https://hrugved06.github.io/Portfolio-Hrugved-Kolhe/">HrugVed</a> ✌🏻 <br/> 
 - 👀 I’m interested in Machine Learning, DSA, Open Source and Many more 😄<br/>
 - 🌱 Trying to learn new technologies and try to keep myself busy 🤵🏻 <br/>
-- 👨🏻‍💻 Currently exploring Open Source domain 📱</br>
+- 👨🏻‍💻 Currently exploring Open Source field 📱</br>
 - 💞️ I’m open for collaboration on every interesting project/stuff ✌🏻<br/>
 - 📫 You can contact me through these socials IDs 😁👇🏻  <br/>
 
 <!-----Social Accounts------>
 
 <p align="center">
+<a href="https://hrugved06.github.io/Portfolio-Hrugved-Kolhe/">
+<img border="0" alt="Hrugved Kolhe" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/40/000000/external-resume-business-recruitment-itim2101-lineal-color-itim2101.png"/>
+</a>
+
 <a href="https://www.linkedin.com/in/hrugved-kolhe-364881193/">
 <img border="0" alt="Hrugved Kolhe" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
 </a>
@@ -66,21 +70,22 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Repository Overview :
 
-<a href="https://github.com/hrugved06/Face-X">
- <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=hrugved06&repo=Face-X&theme=dark" />
+<a href="https://github.com/hrugved06/Playing-TRex-game-using-facial-recognition">
+ <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=hrugved06&repo=TRex-game-using-facial-recognition&theme=dark" />
 </a>
 
 <a href="https://github.com/hrugved06/Discbot_ai">
  <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=hrugved06&repo=Discbot_ai&theme=dark" />
 </a>
 
+<a href="https://github.com/hrugved06/Face-Blurring-and-Deblurring">
+ <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=hrugved06&repo=Face-Blurring-and-Deblurring&theme=dark" />
+</a>
+
 <a href="https://github.com/hrugved06/ML-DL-Projects">
  <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=hrugved06&repo=ML-DL-Projects&theme=dark" />
 </a>
 
-<a href="https://github.com/hrugved06/ML-Projects">
- <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=hrugved06&repo=ML-Projects&theme=dark" />
-</a>
 
 </br>
 <hr style="height:2px;#8080ffborder-width:0;border-radius: 5px;color:gray;background-color:#8080ff">

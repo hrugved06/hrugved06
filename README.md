@@ -4,10 +4,10 @@
 
 - 👋🏻 Hiya, I’m <a href="https://hrugved06.github.io/Portfolio-Hrugved-Kolhe/">HrugVed</a> ✌🏻 <br/> 
 - 👀 I’m interested in Machine Learning, DSA, Open Source and Many more 😄<br/>
-- 🌱 Trying to learn new technologies and try to keep myself busy 🤵🏻 <br/>
+- 🌱 Learning and implementing projects using  AWS services i.e SageMaker, DeepComposer, DeepRacer 🤵🏻 <br/>
 - 👨🏻‍💻 Currently exploring Open Source field 📱</br>
 - 💞️ I’m open for collaboration on every interesting project/stuff ✌🏻<br/>
-- 📫 You can contact me through these socials IDs 😁👇🏻  <br/>
+- 📫 You can contact me through any of these socials IDs 😁👇🏻  <br/>
 
 <!-----Social Accounts------>
 
@@ -32,11 +32,11 @@
 <img border="0" alt="Hrugved Kolhe" src="https://img.icons8.com/doodle/40/000000/telegram-app.png"/>
 </a>
 
-<a href="https://discord.com/channels/@me/862133669510250506">
+<a href="https://discord.com/invite/5RmWdZKpe6">
 <img border="0" alt="HrugVed (He/Him)#8131" src="https://img.icons8.com/fluent/42/000000/discord-logo.png"/>
 </a>
 
-<a href="mailto:hskolhe666@gmail.com">
+<a href="mailto:geeky.hrugved143@gmail.com">
 <img border="0" alt="Hrugved Kolhe" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
 </a>
 </p>

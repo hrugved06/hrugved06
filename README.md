@@ -17,6 +17,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/hrugved-kolhe-364881193/">
+ 
 <img border="0" alt="Hrugved Kolhe" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
 </a>
 

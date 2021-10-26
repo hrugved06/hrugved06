@@ -103,11 +103,15 @@
  
 <!------------------- Languages used by me ----------------------->
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Programming Languages used in the Project:
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Programming Languages used:
 
 
 <a href="https://www.python.org/">
 <img border="0" alt="Python" src="https://img.icons8.com/color//000000/python--v2.png"/>
+</a>
+
+<a href="https://www.cplusplus.com/">
+<img border="0" alt="C++" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
 </a>
 
 <a href="https://jupyter.org/">

@@ -40,13 +40,14 @@
 <a href="mailto:geeky.hrugved143@gmail.com">
 <img border="0" alt="Hrugved Kolhe" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
 </a>
+
 </p>
 
 <div align="center">
 
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> **Scan Me** <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+### **Scan Me**
 
-<img src="assets/qrcode_hrugved06.github.io.png" width="200" height="200" alt="https://hrugved06.github.io/Portfolio-Hrugved-Kolhe/">
+<a href="https://hrugved06.github.io/Portfolio-Hrugved-Kolhe/"><img src="assets/qrcode_hrugved06.github.io.png" width="200" height="200" alt="WebsiteQR"></a>
 
 </div>
 
@@ -143,10 +144,8 @@
 <hr style="height:2px;#8080ffborder-width:0;border-radius: 5px;color:gray;background-color:#8080ff">
 </br>
 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Profiles :
 <div align="center">
- 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> My Profile :
-
 <a href="https://github.com/hrugved06"><img src="https://avatars.githubusercontent.com/u/59966943?s=400&u=445f4a7598547c0ecdeb22a265dd1a3dad9e297d&v=4" width="100px;" alt=""/><br /><sub><b> Hrugved Kolhe</b></sub></a>
 </br>
 

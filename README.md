@@ -59,11 +59,11 @@
 
 <!-----Contribution figures------>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">General Stats :
+<!-- ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">General Stats :
 
 <img align="center" src = "https://github-readme-stats.vercel.app/api?username=hrugved06&&show_icons=true&title_color=02D752&icon_color=bb2acf&text_color=b3b3ff&bg_color=0,000000,130F40">
 
-<hr style="height:2px;border-width:1;border-radius: 5px;color:gray;background-color:#8080ff">
+<hr style="height:2px;border-width:1;border-radius: 5px;color:gray;background-color:#8080ff"> -->
 
 <!------------ Streak Display -------------->
 
@@ -78,7 +78,7 @@
 
 <!-------------Projects---------------->
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Repository Overview :
+<!-- ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Repository Overview :
 
 <a href="https://github.com/hrugved06/Playing-TRex-game-using-facial-recognition">
  <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=hrugved06&repo=TRex-game-using-facial-recognition&theme=dark" />
@@ -98,7 +98,7 @@
 
 
 </br>
-<hr style="height:2px;#8080ffborder-width:0;border-radius: 5px;color:gray;background-color:#8080ff">
+<hr style="height:2px;#8080ffborder-width:0;border-radius: 5px;color:gray;background-color:#8080ff"> -->
 
 <!--------------- Hrugved's Contribution Graph ---------------->
 

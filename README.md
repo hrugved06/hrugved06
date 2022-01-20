@@ -1,8 +1,8 @@
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Hey Everyone<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, This is Hrugved😃 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Hey Everyone<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Hrugved Here😃 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 
 <hr style="height:2px;border-width:1;border-radius: 5px;color:gray;background-color:#8080ff">
 
-- 👋🏻 Hiya, I’m <a href="https://hrugved06.github.io/Portfolio-Hrugved-Kolhe/">HrugVed</a> ✌🏻 <br/> 
+- 👋🏻 Sup! I’m <a href="https://hrugved06.github.io/Portfolio-Hrugved-Kolhe/">HrugVed</a> ✌🏻 <br/> 
 - 👀 I’m interested in Machine Learning, DSA, Open Source and Many more 😄<br/>
 - 🌱 Learning and implementing projects using  AWS services i.e SageMaker, DeepComposer, DeepRacer 🤵🏻 <br/>
 - 👨🏻‍💻 Currently exploring Open Source field 📱</br>

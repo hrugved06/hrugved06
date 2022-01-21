@@ -13,24 +13,24 @@
 
 <p align="center">
 <a href="https://hrugved06.github.io/Portfolio-Hrugved-Kolhe/">
-<img border="0" alt="Hrugved Kolhe" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/40/000000/external-resume-business-recruitment-itim2101-lineal-color-itim2101.png"/>
+<img border="0" alt="Hrugved's Portfolio" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/40/000000/external-resume-business-recruitment-itim2101-lineal-color-itim2101.png"/>
 </a>
 
-<a href="https://www.linkedin.com/in/hrugved-kolhe-364881193/">
+<a href="https://www.linkedin.com/in/hrugved06/">
  
-<img border="0" alt="Hrugved Kolhe" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
+<img border="0" alt="Hrugved's LinkedIn" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
 </a>
 
 <a href="https://twitter.com/HrugVed_">
-<img border="0" alt="Hrugved Kolhe" src="https://img.icons8.com/nolan/40/twitter.png"/>
+<img border="0" alt="Hrugvedtwts" src="https://img.icons8.com/nolan/40/twitter.png"/>
 </a>
 
 <a href="https://www.instagram.com/_hrugved_/">
-<img border="0" alt="Hrugved Kolhe" src="https://img.icons8.com/doodle/38/000000/instagram--v1.png"/>
+<img border="0" alt="Hrugved's IG" src="https://img.icons8.com/doodle/38/000000/instagram--v1.png"/>
 </a>
 
 <a href="https://t.me/Dev1ce_06">
-<img border="0" alt="Hrugved Kolhe" src="https://img.icons8.com/doodle/40/000000/telegram-app.png"/>
+<img border="0" alt="Hrugved's TG" src="https://img.icons8.com/doodle/40/000000/telegram-app.png"/>
 </a>
 
 <a href="https://discord.com/invite/5RmWdZKpe6">
@@ -38,7 +38,7 @@
 </a>
 
 <a href="mailto:geeky.hrugved143@gmail.com">
-<img border="0" alt="Hrugved Kolhe" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
+<img border="0" alt="Hrugved's Mail" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
 </a>
 
 </p>

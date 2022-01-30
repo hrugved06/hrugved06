@@ -96,10 +96,14 @@
 
 <!------------ Streak Display -------------->
 
+<div align="center">
+
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Contribution Stats :
 
 <div>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hrugved06&theme=dark" alt="HrugVed" /></p>
+</div>
+
 </div>
 
 <hr style="height:2px;border-width:1;border-radius: 5px;color:#8080ff;background-color:#8080ff">
@@ -131,50 +135,58 @@
 
 <!--------------- Hrugved's Contribution Graph ---------------->
 
+<div align="center">
+
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Contribution Graph :
 
  <img src="https://activity-graph.herokuapp.com/graph?username=hrugved06&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true"></div>
  
  <hr style="height:2px;border-width:1;border-radius: 5px;color:#8080ff;background-color:#8080ff">
- 
+
+</div>
+
  </br>
  
 <!------------------- Languages used by me ----------------------->
+<div align="center">
+ 
+ ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Programming Languages used:
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Programming Languages used:
 
+ <a href="https://www.python.org/">
+ <img border="0" alt="Python" src="https://img.icons8.com/color//000000/python--v2.png"/>
+ </a>
 
-<a href="https://www.python.org/">
-<img border="0" alt="Python" src="https://img.icons8.com/color//000000/python--v2.png"/>
-</a>
+ <a href="https://www.cplusplus.com/">
+ <img border="0" alt="C++" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+ </a>
 
-<a href="https://www.cplusplus.com/">
-<img border="0" alt="C++" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-</a>
+ <a href="https://jupyter.org/">
+ <img border="0" alt="Juyter" src="https://cdn.icon-icons.com/icons2/2107/PNG/48/file_type_jupyter_icon_130494.png"/>
+ </a>
 
-<a href="https://jupyter.org/">
-<img border="0" alt="Juyter" src="https://cdn.icon-icons.com/icons2/2107/PNG/48/file_type_jupyter_icon_130494.png"/>
-</a>
+ <a href="https://html.com/#What_is_HTML">
+ <img border="0" alt="HTML" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+ </a>
 
-<a href="https://html.com/#What_is_HTML">
-<img border="0" alt="HTML" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-</a>
+ <a href="https://en.wikipedia.org/wiki/CSS">
+ <img border="0" alt="CSS" src="https://img.icons8.com/color/48/000000/css3.png"/>
+ </a>
 
-<a href="https://en.wikipedia.org/wiki/CSS">
-<img border="0" alt="CSS" src="https://img.icons8.com/color/48/000000/css3.png"/>
-</a>
-
-<a href="https://www.javascript.com/">
-<img border="0" alt="JavaScript" src="https://img.icons8.com/color/50/000000/javascript--v1.png"/>
-</a>
-
+ <a href="https://www.javascript.com/">
+ <img border="0" alt="JavaScript" src="https://img.icons8.com/color/50/000000/javascript--v1.png"/>
+ </a>
+</div>
 
 </br>
 <hr style="height:2px;#8080ffborder-width:0;border-radius: 5px;color:gray;background-color:#8080ff">
 </br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Profiles :
+
 <div align="center">
+ 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> My Profile :
+
 <a href="https://github.com/hrugved06"><img src="https://avatars.githubusercontent.com/u/59966943?s=400&u=445f4a7598547c0ecdeb22a265dd1a3dad9e297d&v=4" width="100px;" alt=""/><br /><sub><b> Hrugved Kolhe</b></sub></a>
 </br>
 

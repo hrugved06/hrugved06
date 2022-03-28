@@ -92,11 +92,15 @@
 
 <!-----Contribution figures------>
 
+<div align="center">
+
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">General Stats :
 
 <img align="center" src = "https://github-readme-stats.vercel.app/api?username=hrugved06&&show_icons=true&title_color=02D752&icon_color=bb2acf&text_color=b3b3ff&bg_color=0,000000,130F40">
 
 <hr style="height:2px;border-width:1;border-radius: 5px;color:gray;background-color:#8080ff">
+ 
+ </div>
 
 <!------------ Streak Display -------------->
 
@@ -115,6 +119,8 @@
 
 <!-------------Projects---------------->
 
+<div align="center">
+
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Repository Overview :
 
 <a href="https://github.com/hrugved06/Career-Prediction-System">
@@ -132,6 +138,8 @@
 <a href="https://github.com/hrugved06/Team-PSI-Portfolio-webIO">
  <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=hrugved06&repo=Team-PSI-Portfolio-webIO&theme=dark" />
 </a>
+ 
+ </div>
 
 </br>
 <hr style="height:2px;#8080ffborder-width:0;border-radius: 5px;color:gray;background-color:#8080ff">

@@ -59,7 +59,7 @@
 <img border="0" alt="yawk.to" src="https://img.icons8.com/fluent/42/000000/discord-logo.png"/>
 </a> -->
 
-<div>
+<div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
@@ -85,8 +85,6 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
 </div>
-
-<hr>
  
 <hr style="height:2px;border-width:1;border-radius: 5px;color:#8080ff;background-color:#8080ff">
 
@@ -150,13 +148,24 @@
 
 ## Contribution Graph 
 
- <img src="https://activity-graph.herokuapp.com/graph?username=hrugved06&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true"></div>
+<!--  <img src="https://activity-graph.herokuapp.com/graph?username=hrugved06&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true"></div> -->
  
- <hr style="height:2px;border-width:1;border-radius: 5px;color:#8080ff;background-color:#8080ff">
+ <div align="center">
+ 
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hrugved06&theme=github_dark">
+ 
+<div/>
 
 </div>
+ 
+ <div align="center">
+ 
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hrugved06&theme=github_dark">
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hrugved06&theme=github_dark">
+ 
+<div/>
 
- </br>
+ <hr style="height:2px;border-width:1;border-radius: 5px;color:#8080ff;background-color:#8080ff">
  
 <!------------------- Languages used by me ----------------------->
 <div align="center">
@@ -191,8 +200,6 @@
 
 </br>
 <hr style="height:2px;#8080ffborder-width:0;border-radius: 5px;color:gray;background-color:#8080ff">
-</br>
-
 
 <div align="center">
  
@@ -208,4 +215,42 @@
 </div>
 </br>
 <hr style="height:2px;#8080ffborder-width:0;border-radius: 5px;color:gray;background-color:#8080ff">
-</br>
+
+<div align="center">
+ 
+## 🫱🏻‍🫲🏻Let's Connect🫱🏻‍🫲🏻
+ 
+ <p align="center">
+<a href="https://hrugved06.github.io/Portfolio-Hrugved-Kolhe/">
+<img border="0" alt="Hrugved's Portfolio" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/40/000000/external-resume-business-recruitment-itim2101-lineal-color-itim2101.png"/>
+</a>
+
+<a href="https://www.linkedin.com/in/hrugved06/">
+ 
+<img border="0" alt="Hrugved's LinkedIn" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
+</a>
+
+<a href="https://twitter.com/HrugVed_">
+<img border="0" alt="Hrugvedtwts" src="https://img.icons8.com/nolan/40/twitter.png"/>
+</a>
+
+<a href="https://www.instagram.com/_hrugved_/">
+<img border="0" alt="Hrugved's IG" src="https://img.icons8.com/doodle/38/000000/instagram--v1.png"/>
+</a>
+
+<a href="https://t.me/Dev1ce_06">
+<img border="0" alt="Hrugved's TG" src="https://img.icons8.com/doodle/40/000000/telegram-app.png"/>
+</a>
+
+<a href="https://discord.com/invite/5RmWdZKpe6">
+<img border="0" alt="HrugVed (He/Him)#8131" src="https://img.icons8.com/fluent/42/000000/discord-logo.png"/>
+</a>
+
+<a href="mailto:geeky.hrugved143@gmail.com">
+<img border="0" alt="Hrugved's Mail" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
+</a>
+</p>
+ 
+</div>
+
+<hr>

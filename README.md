@@ -55,11 +55,7 @@
 
 </div>
 
-<!--  <a href="https://tawk.to/chat/61001d75d6e7610a49ad3be2/1fbk764uk">
-<img border="0" alt="yawk.to" src="https://img.icons8.com/fluent/42/000000/discord-logo.png"/>
-</a> -->
-
-<div align="center">
+<div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
@@ -148,17 +144,15 @@
 
 ## Contribution Graph 
 
-<!--  <img src="https://activity-graph.herokuapp.com/graph?username=hrugved06&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true"></div> -->
+ <!-- <img src="https://activity-graph.herokuapp.com/graph?username=hrugved06&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true"></div>
  
- <div align="center">
- 
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hrugved06&theme=github_dark">
- 
-<div/>
+ <hr style="height:2px;border-width:1;border-radius: 5px;color:#8080ff;background-color:#8080ff"> -->
 
 </div>
- 
+
  <div align="center">
+
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hrugved06&theme=github_dark">
  
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hrugved06&theme=github_dark">
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hrugved06&theme=github_dark">
@@ -166,7 +160,7 @@
 <div/>
 
  <hr style="height:2px;border-width:1;border-radius: 5px;color:#8080ff;background-color:#8080ff">
- 
+
 <!------------------- Languages used by me ----------------------->
 <div align="center">
  
@@ -200,6 +194,8 @@
 
 </br>
 <hr style="height:2px;#8080ffborder-width:0;border-radius: 5px;color:gray;background-color:#8080ff">
+</br>
+
 
 <div align="center">
  

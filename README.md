@@ -144,8 +144,7 @@
 
 ## Contribution Graph 
 
- <!-- <img src="https://activity-graph.herokuapp.com/graph?username=hrugved06&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true"></div>
- 
+[![Hrugved's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hrugved06&bg_color=000000&color=ffffff&line=00ff55&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
  <hr style="height:2px;border-width:1;border-radius: 5px;color:#8080ff;background-color:#8080ff"> -->
 
 </div>

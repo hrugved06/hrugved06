@@ -17,7 +17,7 @@
 
 <p align="center">
 <a href="https://hrugved06.github.io/Portfolio-Hrugved-Kolhe/">
-<img border="0" alt="Hrugved's Portfolio" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/40/000000/external-resume-business-recruitment-itim2101-lineal-color-itim2101.png"/>
+<img border="0" alt="Hrugved's Portfolio" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/40/000000/external-resume-business-recruitment-itim2101-lineal-color-itim2101.png">
 </a>
 
 <a href="https://www.linkedin.com/in/hrugved06/">
@@ -145,7 +145,7 @@
 ## Contribution Graph 
 
 [![Hrugved's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hrugved06&bg_color=000000&color=ffffff&line=00ff55&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
- <hr style="height:2px;border-width:1;border-radius: 5px;color:#8080ff;background-color:#8080ff"> -->
+ <hr style="height:2px;border-width:1;border-radius: 5px;color:#8080ff;background-color:#8080ff">
 
 </div>
 
